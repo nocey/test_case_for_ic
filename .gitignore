@@ -40,8 +40,6 @@ env/
 /lib/
 /lib64/
 /pyvenv.cfg
-# Also ignore the requirements file that is produced by pip freeze
-requirements.txt
 
 # IDE / Editor
 # ---------------------------------------------------
