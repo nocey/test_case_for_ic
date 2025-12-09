@@ -1,0 +1,78 @@
+# Python
+# ---------------------------------------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-file.txt
+
+# Virtual environment
+.venv/
+venv/
+env/
+/bin/
+/include/
+/lib/
+/lib64/
+/pyvenv.cfg
+# Also ignore the requirements file that is produced by pip freeze
+requirements.txt
+
+# IDE / Editor
+# ---------------------------------------------------
+# Visual Studio Code
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+
+# OS/System Files
+# ---------------------------------------------------
+.DS_Store
+Thumbs.db
+
+# Django / DRF Specific
+# ---------------------------------------------------
+# Local settings and sensitive information
+# **NEVER commit your actual secrets.py or settings file if it contains secrets**
+local_settings.py
+.env
+db.sqlite3
+/media
+/static
+
+# Logs and debug files
+*.log
+debug.log
+
+# Testing coverage files
+.coverage
+.coverage.*
+
+# Pytest cache
+.pytest_cache/
