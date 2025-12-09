@@ -1,5 +1,5 @@
 
-# IC Holding Test Case 🚀
+# IC Holding Test Case 
 
 This repository contains the source code for the IC Holding Test Case project. Follow the instructions below to set up the development environment, configure the database, and run the application.
 
